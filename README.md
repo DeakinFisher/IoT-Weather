@@ -103,6 +103,7 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
   <img width="300" alt="image" src="public/assets/Error2.png">
 - Error#2 ‘UND_ERR_CONNECT_TIMEOUT’ (occurs when running File Ws.DHT11.ino)
   Solution: The WiFi may have changed, and therefore the constant ssid and password need to be changed. Change the following fields to your WiFi password and ssid. (Do not make this available/visible on a public repo for obvious reasons).
+  <img width="300" alt="image" src="public/assets/WifiChange.png">
 - Work to Complete: Completely finish the project, with CSS and HTML to create an engaging weather app, which serves its purpose. Complete Final Test.
 
 **Date 15/09/23 Goal Setting: Aim To Complete 10/10/23**
