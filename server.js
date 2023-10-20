@@ -1,8 +1,12 @@
+var http = require ('http');
+var fs = require('fs')
+var index = fs.readFileSync('index.html')
+
 if (process.env.NODE_ENV !== 'production') {
     require('dotenv').config()
 }
 
-const port = 6900
+const port = 6905
 const express = require('express')
 const expressLayouts = require('express-ejs-layouts')
 const app = express()
