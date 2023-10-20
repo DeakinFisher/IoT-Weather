@@ -75,14 +75,14 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
 - Completed Node.js courses on Edstem to develop a basic understanding of Node.js.
 
 **Date 1/09/23 Goal Setting: Aim To Complete 3/09/23**  
-<img width="300" alt="image" src="public/assets/Email.png">  
-<img width="300" alt="image" src="public/assets/ edStem.png">
+<img width="500" alt="image" src="public/assets/Email.png">  
+<img width="500" alt="image" src="public/assets/ edStem.png">
 - Completed Node.js courses.
 - Email to Mr. Lemmer sent.
 - Work to complete: Decide on module, research, and have a framework in place.
 
 **Date 3/09/23 Goal Setting: Aim To Complete 9/09/23**  
-<img width="300" alt="image" src="public/assets/Framework.png">
+<img width="500" alt="image" src="public/assets/Framework.png">
 
 - Researched sources.
 - DHT11 sensor overview.
@@ -91,16 +91,16 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
 - Work to complete: Create Github Repo and fork Mr. Zampogna’s files into the repo. Begin Readme.
 
 **Date 9/09/23 Goal Setting: Aim To Complete 15/09/23**  
-<img width="300" alt="image" src="public/assets/GithubRepo.png">
+<img width="500" alt="image" src="public/assets/GithubRepo.png">
 - IoT Weather Github Repo Made.
 - Readme Created (No evidence Available).
 - Work to complete: Code and build ESP32 to run on a computer. Troubleshoot bugs.
 
 **Date 15/09/23 Goal Setting: Aim To Complete 20/09/23**  
-<img width="300" alt="image" src="public/assets/Error.png">
+<img width="500" alt="image" src="public/assets/Error.png">
 - Error#1 ‘An Error Occurred While Fetching Data’ (occurs when hosting the server, after running Visual Studio code.)
   Solution: Find your unique Device number and put it in the following fields, then run the code again.  
-  <img width="300" alt="image" src="public/assets/Error2.png">
+  <img width="500" alt="image" src="public/assets/Error2.png">
 - Error#2 ‘UND_ERR_CONNECT_TIMEOUT’ (occurs when running File Ws.DHT11.ino)
   Solution: The WiFi may have changed, and therefore the constant ssid and password need to be changed. Change the following fields to your WiFi password and ssid. (Do not make this available/visible on a public repo for obvious reasons).  
   <img width="500" alt="image" src="public/assets/WifiChange.png">
@@ -109,7 +109,7 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
 **Date 15/09/23 Goal Setting: Aim To Complete 10/10/23**
 
 - When running the final tests for my DHT11 Temperature and Humidity sensor, The Sensor Melted, due to the voltage being too high. This has led me to be unable to fully showcase my project. I predict the source of this was due to the fact that I didn’t have a resistor, which would have limited the current going through the circuits. The images provided are evidence of this.  
-- <img width="300" alt="image" src="public/assets/meltedSensor.png">
+- <img width="500" alt="image" src="public/assets/meltedSensor.png">
 - Due to this, I had no way of being able to showcase the CSS and EJS. The code Is available within this Github Repo.
 
 ## Final Statements/Personal Reflection
