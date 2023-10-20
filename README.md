@@ -18,6 +18,10 @@ The DHT11 humidity sensor is a module for the ESP32, which is able to identify t
 
 <img width="350" alt="image" src="public/assets/weatherSensor.png">
 
+#### DHT11 Circuit Diagram
+<img width="350" alt="image" src="public/assets/circut.png">
+
+
 #### DHT11 Pin Configuration
 - Pin 1: Vcc
 - Pin 2: Data
