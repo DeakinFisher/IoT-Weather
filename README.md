@@ -70,7 +70,7 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
 
 **Date 29/8/23 Goal Setting: Aim To Complete 1/09/23**
 <img width="300" alt="image" src="public/assets/Email.png">
-<img width="300" alt="image" src="public/assets/edStem.png">
+<img width="300" alt="image" src="public/assets/ edStem.png">
 - Sent an email for the sensor to Mr. Lemmer.
 - Chosen Sensors: Laser Module and Temperature and Humidity sensor.
 - Completed Node.js courses on Edstem to develop a basic understanding of Node.js.
