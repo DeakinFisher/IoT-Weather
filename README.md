@@ -109,11 +109,13 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
 **Date 15/09/23 Goal Setting: Aim To Complete 10/10/23**
 
 - When running the final tests for my DHT11 Temperature and Humidity sensor, The Sensor Melted, due to the voltage being too high. This has led me to be unable to fully showcase my project. I predict the source of this was due to the fact that I didn’t have a resistor, which would have limited the current going through the circuits. The images provided are evidence of this.
-- Due to this, I had no way of being able to showcase the CSS and EJS. The code Is available within this Github Repo. Throughout.
+- <img width="300" alt="image" src="public/assets/meltedSensor.png">
+- Due to this, I had no way of being able to showcase the CSS and EJS. The code Is available within this Github Repo.
 
 ## Final Statements/Personal Reflection
 
 Throughout this project, I have expanded my knowledge of the IoT and GitHub repos, and developed my skills in EJS, CSS, and Node.js. My Project aimed to create a Temperature and Humidity Sensor, able to access anywhere in the world, by anyone, showing the effectiveness and efficiency of the IoT. Through this project, I managed to stick to my deadlines, create frameworks, and fix and debug problems. Though the module melted, rendering me unable to complete and test my website, there will be many more opportunities to try again, hopefully with a little more success.
+ <img width="300" alt="image" src="public/assets/Quote.png">
 
 ## References
 
