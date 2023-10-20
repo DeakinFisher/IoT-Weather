@@ -8,7 +8,7 @@ A temperature and humidity sensor connected to an ESP32 accessible to a worldwid
 
 The integration of devices such as these allows for a variety of benefits, which vary in both usefulness and scale. The creation of my product allows for enhancements in efficiency and remote access, yet above all, is another step in contributing to the IoT and creating Smart Cities: Sensors in urban environments monitor pollution levels, traffic flow, and public infrastructure, aiding city planning and management.
 
-<img width="480" alt="image" src="public/assets/IotWeatherSensor.png">
+<img width="350" alt="image" src="public/assets/IotWeatherSensor.png">
 
 ## Description of all the parts
 
