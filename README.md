@@ -7,7 +7,7 @@
 A temperature and humidity sensor connected to an ESP32 accessible to a worldwide community shows the core concept of the Internet of Things (IoT). The IoT stands for the Internet of Things, a term used to describe a network of interconnected devices that communicate and exchange data through the Internet, without the help of human intervention. The purpose of this setup is in its ability to enhance automation, data collection, and further build on remote sensing and monitoring in multiple fields. The Weather Sensor can serve many purposes. On a small scale, it can act as a way for homeowners to check the humidity and temperature around plants or other vegetation, allowing them to remotely monitor this and get others to act upon it. Yet this Device ranges from home Automation to large-scale projects, such as weather stations, which, using projects such as these, can aid meteorological research and gather crowd-sourced data, providing real-time updates globally.
 
 The integration of devices such as these allows for a variety of benefits, which vary in both usefulness and scale. The creation of my product allows for enhancements in efficiency and remote access, yet above all, is another step in contributing to the IoT and creating Smart Cities: Sensors in urban environments monitor pollution levels, traffic flow, and public infrastructure, aiding city planning and management.
-<img width="480" alt="image" src="IotWeatherSensor.png">
+<img width="480" alt="image" src="assets/IotWeatherSensor.png">
 
 ## Description of all the parts
 
