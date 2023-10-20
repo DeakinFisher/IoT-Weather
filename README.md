@@ -32,6 +32,9 @@ The DHT11 humidity sensor is a module for the ESP32, which is able to identify t
 
 The 430-pin breadboard serves as the basis for any ESP32 project, providing a way to build temporary circuits. The breadboard used in my project is a 430-pin breadboard, meaning there is space for 430 different pins.
 
+### Board Layout and Visual Explanation
+<img width="350" alt="image" src="public/assets/Breadboard.png">
+
 ### Male-to-Male Breadboard Connectors
 
 Male-to-male breadboard connectors are wires that can transmit a signal over a short distance. These wires are ideal for creating circuits from the ESP32 to the breadboard. They typically come in varying colors so you can distinguish them when making a project.
