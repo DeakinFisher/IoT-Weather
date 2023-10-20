@@ -103,7 +103,7 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
   <img width="300" alt="image" src="public/assets/Error2.png">
 - Error#2 ‘UND_ERR_CONNECT_TIMEOUT’ (occurs when running File Ws.DHT11.ino)
   Solution: The WiFi may have changed, and therefore the constant ssid and password need to be changed. Change the following fields to your WiFi password and ssid. (Do not make this available/visible on a public repo for obvious reasons).  
-  <img width="300" alt="image" src="public/assets/WifiChange.png">
+  <img width="500" alt="image" src="public/assets/WifiChange.png">
 - Work to Complete: Completely finish the project, with CSS and HTML to create an engaging weather app, which serves its purpose. Complete Final Test.
 
 **Date 15/09/23 Goal Setting: Aim To Complete 10/10/23**
@@ -114,7 +114,7 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
 
 ## Final Statements/Personal Reflection
 
-Throughout this project, I have expanded my knowledge of the IoT and GitHub repos, and developed my skills in EJS, CSS, and Node.js. My Project aimed to create a Temperature and Humidity Sensor, able to access anywhere in the world, by anyone, showing the effectiveness and efficiency of the IoT. Through this project, I managed to stick to my deadlines, create frameworks, and fix and debug problems. Though the module melted, rendering me unable to complete and test my website, there will be many more opportunities to try again, hopefully with a little more success.
+Throughout this project, I have expanded my knowledge of the IoT and GitHub repos, and developed my skills in EJS, CSS, and Node.js. My Project aimed to create a Temperature and Humidity Sensor, able to access anywhere in the world, by anyone, showing the effectiveness and efficiency of the IoT. Through this project, I managed to stick to my deadlines, create frameworks, and fix and debug problems. Though the module melted, rendering me unable to complete and test my website, there will be many more opportunities to try again, hopefully with a little more success.  
  <img width="300" alt="image" src="public/assets/Quote.png">
 
 ## References
