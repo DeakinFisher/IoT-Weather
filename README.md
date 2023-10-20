@@ -91,15 +91,16 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
 - Work to complete: Create Github Repo and fork Mr. Zampogna’s files into the repo. Begin Readme.
 
 **Date 9/09/23 Goal Setting: Aim To Complete 15/09/23**
-
+<img width="300" alt="image" src="public/assets/GithubRepo.png">
 - IoT Weather Github Repo Made.
 - Readme Created (No evidence Available).
 - Work to complete: Code and build ESP32 to run on a computer. Troubleshoot bugs.
 
 **Date 15/09/23 Goal Setting: Aim To Complete 20/09/23**
-
+<img width="300" alt="image" src="public/assets/Error.png">
 - Error#1 ‘An Error Occurred While Fetching Data’ (occurs when hosting the server, after running Visual Studio code.)
   Solution: Find your unique Device number and put it in the following fields, then run the code again.
+  <img width="300" alt="image" src="public/assets/Error2.png">
 - Error#2 ‘UND_ERR_CONNECT_TIMEOUT’ (occurs when running File Ws.DHT11.ino)
   Solution: The WiFi may have changed, and therefore the constant ssid and password need to be changed. Change the following fields to your WiFi password and ssid. (Do not make this available/visible on a public repo for obvious reasons).
 - Work to Complete: Completely finish the project, with CSS and HTML to create an engaging weather app, which serves its purpose. Complete Final Test.
