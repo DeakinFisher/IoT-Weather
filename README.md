@@ -75,7 +75,7 @@ Arduino libraries are a set of pre-written code modules that affect and simplify
 - Completed Node.js courses on Edstem to develop a basic understanding of Node.js.
 
 **Date 1/09/23 Goal Setting: Aim To Complete 3/09/23**
-<img width="300" alt="image" src="public/assets/Email.png">
+<img width="300" alt="image" src="public/assets/Email.png">  
 <img width="300" alt="image" src="public/assets/ edStem.png">
 - Completed Node.js courses.
 - Email to Mr. Lemmer sent.
