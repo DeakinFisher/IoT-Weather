@@ -16,7 +16,7 @@ The integration of devices such as these allows for a variety of benefits, which
 
 The DHT11 humidity sensor is a module for the ESP32, which is able to identify the temperature and humidity from a range of 0-50 degrees Celsius and 20% to 80% humidity. It integrates a thermistor and a capacitive humidity sensor. An integrated ADC converter converts the measured values into a digital signal, which is then output via the OneWire interface.
 
-![DHT sensor circuit diagram](link-to-image)
+<img width="350" alt="image" src="public/assets/WeatherSensor.png">
 
 #### DHT11 Pin Configuration
 - Pin 1: Vcc
