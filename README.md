@@ -1,6 +1,4 @@
 
-- [Web Page Layouts](https://www.youtube.com/watch?v=3C_22eBWpjg)
-- [JS Native Fetch](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 
 # Project Purpose
 
@@ -124,5 +122,9 @@ Throughout this project, I have expanded my knowledge of the IoT and GitHub repo
 - [Reference 3](https://www.elecrow.com/blog/how-to-use-a-breadboard-for-beginners.html)
 - [Reference 4](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 - [Reference 5](https://www.proprofsproject.com/blog/project-management-quotes/)
+- [Reference 6](https://www.youtube.com/watch?v=3C_22eBWpjg)
+- [Reference 7](https://www.youtube.com/watch?v=MBqS1kYzwTc)
+- [Reference 8](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+
 
 
